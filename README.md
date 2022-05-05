@@ -1,3 +1,3 @@
 # snakegame
-Play classic snake game
-Play using Up, Down, Left, and Right arrows!
+Play classic snake game.
+Use Up, Down, Left, and Right arrows!
